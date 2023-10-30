@@ -5,6 +5,17 @@
 }
 
 body {
+    font-family: sans-serif;
     background-color: teal;
     color: white;
+}
+
+header {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.enterData {
+    text-align: center;
+    margin-top: 20px;
 }
